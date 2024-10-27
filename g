@@ -3,3 +3,4 @@ vless://546aca5d-b332-466c-800d-16cf518921ba@213.176.127.25:49194?type=tcp&secur
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U2docXlLUDh5VVd1bDhwMU9LbDJpTy9zcnQzYnQ0QWt2elBCVHpiUE5Laz06NTQ2YWNhNWQtYjMzMi00NjZjLTgwMGQtMTZjZjUxODkyMWJh@213.176.127.25:48644?type=tcp#shadow-g3
 vless://546aca5d-b332-466c-800d-16cf518921ba@213.176.127.25:443?type=tcp&security=reality&pbk=EMRwHZA8Fi2bEfvfgwzYx9Qacx34TtlpPKos_AarOys&fp=random&sni=gsmarena.com&sid=9ef26b2c87&spx=%2F#r3-g4
 vless://546aca5d-b332-466c-800d-16cf518921ba@213.176.127.25:29615?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v-g5
+vless://546aca5d-b332-466c-800d-16cf518921ba@213.176.127.25:20869?type=ws&path=%2Fws&host=game.gameserveryas.ir&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v2-g6
